@@ -1,7 +1,7 @@
 # Getting Started with Create React App
-https://github.com/Mujtaba-Lodha/React_project/issues/1#issue-1861230023
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img src = 'https://github.com/Mujtaba-Lodha/React_project/issues/1#issue-1861230023' />
 ## Available Scripts
 
 In the project directory, you can run:
