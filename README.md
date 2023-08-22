@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-<img src = ':\Users\DELL\Desktop\React js\Screenshot 2023-08-22 163839.png'  />
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
